@@ -400,7 +400,8 @@ const mapToken = response => {
 
 ![An image](./images/main.png)
 
-摇一摇手机 会弹出 Developer Menu对话框 这里面有我们开发时候会用到的一些调试工具,
+摇一摇手机 会弹出 Developer Menu对话框 这里面有我们开发时候会用到的一些调试工具
+
 ![An image](./images/dev_tool.png)
 
 #### reload
